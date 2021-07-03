@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\MadLibsGame\MadLibsConsole\bin\Debug\net5.0\MadLibsConsole.exe
+C:\Users\User\source\repos\MadLibsGame\MadLibsConsole\bin\Debug\net5.0\MadLibsConsole.deps.json
+C:\Users\User\source\repos\MadLibsGame\MadLibsConsole\bin\Debug\net5.0\MadLibsConsole.runtimeconfig.json
+C:\Users\User\source\repos\MadLibsGame\MadLibsConsole\bin\Debug\net5.0\MadLibsConsole.runtimeconfig.dev.json
+C:\Users\User\source\repos\MadLibsGame\MadLibsConsole\bin\Debug\net5.0\MadLibsConsole.dll
+C:\Users\User\source\repos\MadLibsGame\MadLibsConsole\bin\Debug\net5.0\ref\MadLibsConsole.dll
+C:\Users\User\source\repos\MadLibsGame\MadLibsConsole\bin\Debug\net5.0\MadLibsConsole.pdb
+C:\Users\User\source\repos\MadLibsGame\MadLibsConsole\obj\Debug\net5.0\MadLibsConsole.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MadLibsGame\MadLibsConsole\obj\Debug\net5.0\MadLibsConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MadLibsGame\MadLibsConsole\obj\Debug\net5.0\MadLibsConsole.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MadLibsGame\MadLibsConsole\obj\Debug\net5.0\MadLibsConsole.AssemblyInfo.cs
+C:\Users\User\source\repos\MadLibsGame\MadLibsConsole\obj\Debug\net5.0\MadLibsConsole.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MadLibsGame\MadLibsConsole\obj\Debug\net5.0\MadLibsConsole.dll
+C:\Users\User\source\repos\MadLibsGame\MadLibsConsole\obj\Debug\net5.0\ref\MadLibsConsole.dll
+C:\Users\User\source\repos\MadLibsGame\MadLibsConsole\obj\Debug\net5.0\MadLibsConsole.pdb
+C:\Users\User\source\repos\MadLibsGame\MadLibsConsole\obj\Debug\net5.0\MadLibsConsole.genruntimeconfig.cache
